@@ -1,0 +1,8 @@
+Tu trouveras un fichier esscadata.csv, ce fichier contient la liste des anciens élèves en fonction de leur ville, nom, prénom, de l'année d'étude et du langage de programmation. Créer les fichiers suivants :
+
+- php_lyon_2019.csv qui contiendra uniquement le nombre d'alumnis ayant fait du PHP à Lyon, en 2019.
+- javascript_budapest_lyon.csv qui contiendra uniquement les alumnis ayant fait du JavaScript, sur les campus Budapest et Lyon.
+- david.csv qui contiendra le nombre de toutes les personnes qui portent David en prénom ou en nom.
+- mails_angers.csv qui contiendra uniquement les adresses mails des alumnis du campus d’Angers.
+- mails_bordeaux_shanghai.csv qui contiendra uniquement les adresses mails des alumnis des campus de Bordeaux et Shanghai.
+- python_2018.csv qui contiendra uniquement le nombre d'alumnis ayant fait du Python en 2018.
